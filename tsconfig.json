@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"rootDir": "./src",
+		"outDir": "./js",
+		"removeComments": true,
+		"strict": true,
+		"noEmitOnError": true
+	}
+}
